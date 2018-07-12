@@ -1,4 +1,4 @@
-# PLAsTiCC RAMP starting kit
+# Pre-PLAsTiCC RAMP starting kit
 
 Classification of transients using light curves data.
 
